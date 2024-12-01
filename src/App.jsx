@@ -8,12 +8,7 @@ function App() {
     <div>
       <Navbar/>
       <Search/>
-
-
-
-
-    
-    </div>
+     </div>
   )
 }
 
